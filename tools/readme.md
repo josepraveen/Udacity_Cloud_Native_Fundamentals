@@ -1,8 +1,8 @@
+Below are the list of tool's documentation
+-------------------------------------------------------------------------------------
+[Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
-python
-[Guide for Downloading Python](https://www.python.org/downloads/)
-
-[Git](https://git-scm.com/downloads)
+[Git Manual](https://git-scm.com/docs)
 
 [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
@@ -14,9 +14,9 @@ python
 
 [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
 
-[Vagrant](https://www.vagrantup.com/downloads)
+[Vagrant - Getting Started](https://learn.hashicorp.com/collections/vagrant/getting-started)
 
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+[VirtualBox - for documentation check the 1st link pdf file](https://www.virtualbox.org/wiki/Documentation)
 
 [Documentation for WSL2 install](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
