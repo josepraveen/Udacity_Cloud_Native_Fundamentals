@@ -27,3 +27,7 @@ Below are the list of tool's documentation
 [Documentation for Winget, a windows package manger](https://www.quora.com/How-do-you-use-Windows-10s-package-manager-winget/answer/Jose-Praveen)
 
 [Kubernetes Documentation](https://kubernetes.io/docs/tasks/tools/)
+
+Troubleshooting Guide
+-----------------------------------------------------------------------
+[Guide for how to search specific error in stackoverflow](https://stackoverflow.com/help/searching)
